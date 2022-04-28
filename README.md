@@ -1,4 +1,4 @@
-# cupertino_page_transition_ex
+# cupertino_page_transition
 
 A new Flutter project.
 
